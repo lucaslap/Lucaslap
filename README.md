@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" 
-padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" width="400px" align="right" alt="JavaScript">
+padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" width="300px" align="right" alt="JavaScript">
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP.<br>
 - 👨‍⚕️ Atualmente trabalhando como Técnico de enfermagem.<br>
