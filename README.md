@@ -11,15 +11,14 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br>
-- ✉️ Contatos:  <a href="https://www.linkedin.com/in/lucas-lap/" target="_blank"><img img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><br>
   </p1>
 </div><br>
 
 <div align="center" padding="10%">
   <a href="https://github.com/lucas-lap">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-lap&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lap&theme=dracula&hide_border=false&&layout=compact"/>
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-lap&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lap&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
