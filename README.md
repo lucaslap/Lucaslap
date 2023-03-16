@@ -14,9 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="display: inline_block">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-lap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-lap&show_icons=true&theme=transparent)
 ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
