@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/Lucas-lap">
-    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucas-lap&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
-    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lap&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucas-lap&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lap&theme=vue-dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
