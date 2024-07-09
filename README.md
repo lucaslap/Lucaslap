@@ -21,8 +21,8 @@
   <h3>📝 Github Stats</h3>
   <span>
     <a href="https://github.com/Lucas-lap">
-      <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=Lucas-lap&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-      <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lap&theme=midnight-purple&hide_border=false&&layout=compact"/>
+      <img height="140rem" src="https://github-readme-stats.vercel.app/api?username=Lucas-lap&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+      <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lap&theme=midnight-purple&hide_border=false&&layout=compact"/>
     </a>
   </span>
 </div>
