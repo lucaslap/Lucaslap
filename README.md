@@ -5,8 +5,7 @@
 <div align="left">
   <p1>
 - 📚 Student Analysis and System Development at <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP.</a><br>
-- 👨‍⚕️ Nursing technician.<br>
-- 🛠️ Full-Stack Developer.<br>
+- 🛠️ Backend Developer.<br>
 - 💻 Technologies:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
