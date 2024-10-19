@@ -12,16 +12,6 @@
   <img align="center" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"><br><br>
   </p1>
 </div>
-
-<div align="center">
-  <h3>📝 Github Stats</h3>
-  <span>
-    <a href="https://github.com/Lucas-lap">
-      <img height="140rem" src="https://github-readme-stats.vercel.app/api?username=Lucas-lap&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-      <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lap&theme=midnight-purple&hide_border=false&&layout=compact"/>
-    </a>
-  </span>
-</div>
 <br>
 
 ![github-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
