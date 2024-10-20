@@ -4,6 +4,8 @@
 - 📚 Analysis and Systems Development student at <a href="https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP</a>.
 - 🛠️ I’m currently learning backend development.<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💻Languages and Tools:
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="archlinux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="padding-right:10px;"/>
