@@ -42,6 +42,8 @@
 - [Inteligência artificial e Java: crie ferramentas poderosas e chatbots inteligentes com as APIs da OpenAI - Alura (2024)](https://cursos.alura.com.br/user/lucas1998/degree-ia-java-apis-openai-754502/certificate)
 
 ### Roadmap
+- [x] Inteligência artificial e Java: crie ferramentas poderosas e chatbots inteligentes com as APIs da OpenAI - Alura.
+- [x] Aprenda a programar em Java com Orientação a Objetos - Alura.
 - [ ] **Java Web: crie aplicações usando Spring Boot - Alura.**
 - [ ] Java e Spring Boot - Alura.
 - [ ] Boas Práticas em Java - Alura.
