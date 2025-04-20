@@ -4,7 +4,7 @@
 
 - 🎓 Atualmente cursando **Engenharia de Software** na FIAP.  
 - 💻 Focado em desenvolvimento backend com Java e Spring Boot.  
-- 🚀 Estudando mais sobre **clean code**, **APIs REST** e **microservices**.  
+- 🚀 Estudando mais sobre **clean code**, **APIs REST** e **microsserviços**.  
 - 📫 Sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/lucas-lap/).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
