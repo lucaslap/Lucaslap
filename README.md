@@ -22,12 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 **Database**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-**Cloud**<br>
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 
 **Tools**<br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
